@@ -25,4 +25,4 @@ if((X < O)) and (y > 0):
         print("punto en el tercer cuadrante");
 
 else:
-    print("punto de origin");
+    print("punto de origine");
